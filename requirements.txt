@@ -1,2 +1,2 @@
-pip install requests
-pip install discord.py
+requests==2.26.0
+discord.py==1.7.3
